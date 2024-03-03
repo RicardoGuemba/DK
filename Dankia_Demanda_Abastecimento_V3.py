@@ -1,3 +1,4 @@
+Codigo para simular abatecimentos e sinalizar os momentos de abastecimentos
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
